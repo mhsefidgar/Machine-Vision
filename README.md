@@ -1,5 +1,5 @@
 # Machine-Vision
-This project is carried out in Matlab software based on the "Feature Based Panoramic Image Stitching" published in Matlab.
+This project is a Matlab GUI that was carried out in Matlab software based on the "Feature Based Panoramic Image Stitching" published in Matlab official website.
 GUI can simply collect all images by pushing load images button. Next it is essential to push processing button to stitch all images.
 
 ### Procedures to run the program ###
