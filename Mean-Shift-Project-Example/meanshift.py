@@ -1,7 +1,7 @@
 import numpy as np
 import cv2 as cv
 import argparse
-
+ 
 # Grabbing the path to video file 
 import tkinter as tk
 from tkinter import filedialog
