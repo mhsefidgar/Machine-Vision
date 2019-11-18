@@ -43,7 +43,7 @@
 % routines in the form of 
 % <matlab:helpview(fullfile(docroot,'toolbox','matlab','matlab_prog','matlab_prog.map'),'nested_functions') nested functions> 
 % below.
-% Important Notice Import to this file is a path to Matlab valid video file
+% Important Notice: Import to this file is a path to Matlab valid video file
 
 function [FrameSequense, MaskSequence] = MotionBasedMultiObjectTrackingAsteroidExample(a)
 
