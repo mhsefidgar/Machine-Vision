@@ -45,7 +45,7 @@
 % below.
 % Important Notice: Import to this file is a path to Matlab valid video file
 
-function [FrameSequense, MaskSequence] = MotionBasedMultiObjectTrackingAsteroidExample(a)
+function [FrameSequense, MaskSequence] = MotionBasedMultiObjectTrackingExample(a)
 
 % Create System objects used for reading video, detecting moving objects,
 % and displaying the results.
